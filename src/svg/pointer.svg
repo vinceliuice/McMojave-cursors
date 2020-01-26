@@ -1,0 +1,15 @@
+<svg width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" x="-.12066" y="-.11935" width="1.2413" height="1.2387" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.84610228"/>
+  </filter>
+ </defs>
+ <g transform="translate(-2,-1)">
+  <rect x="6" y="5" width="24" height="24" fill="none" opacity=".2"/>
+  <g transform="translate(-185,-155)">
+   <path d="m201 163c-1.0907 0-2 0.9093-2 2v8.1719l-0.57617-0.57618c-0.37625-0.38678-0.89406-0.60543-1.4336-0.60547h-2e-3c-0.63753 1e-3 -1.2385 0.30851-1.6133 0.82422l0.10156-0.11914-1.3066 1.3066 1.3672 1.3633-0.0371-0.041c0.0303 0.0338 0.0616 0.0665 0.0957 0.0996l3.9766 3.9766c0.45729 0.47544 1.1229 0.69541 1.7734 0.58594l-0.16597 0.01367h6.8203c1.0907 0 3-1.9093 3-3v-5.0371l-2e-3 -0.0371s-0.0502-0.44393-0.29493-0.83594c-0.24475-0.392-0.71237-0.81428-1.3867-1.0391l-6.1542-2.0508h-0.16211v-3c0-1.0907-0.9093-2-2-2z" color="#000000" color-rendering="auto" enable-background="new" filter="url(#a)" image-rendering="auto" opacity=".35" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+   <path d="m200 163c-0.554 0-1 0.446-1 1v10.586l-2.293-2.293c-0.18827-0.19354-0.4468-0.30272-0.7168-0.30274-0.31924 7.5e-4 -0.61895 0.15387-0.80664 0.41211l-0.59765 0.59766 0.6582 0.65625c0.0157 0.0175 0.0319 0.0344 0.0488 0.0508l4 4c0.22904 0.23813 0.56092 0.34778 0.88675 0.29295h6.8203c2 0 2-2 2-2v-5s-0.0513-0.68377-1-1l-6-2h-1v-4c0-0.554-0.446-1-1-1z" enable-background="new" fill="none" stroke="#fff" stroke-width="2"/>
+   <path d="m200 163c-0.554 0-1 0.446-1 1v10.586l-2.293-2.293c-0.18827-0.19354-0.4468-0.30272-0.7168-0.30274-0.31924 7.5e-4 -0.61895 0.15387-0.80664 0.41211l-0.59765 0.59766 0.6582 0.65625c0.0157 0.0175 0.0319 0.0344 0.0488 0.0508l4 4c0.22904 0.23813 0.56092 0.34778 0.88675 0.29295h6.8203c2 0 2-2 2-2v-5s-0.0574-0.66615-1-1l-6-2h-1v-4c0-0.554-0.446-1-1-1z" enable-background="new" fill="#151515"/>
+  </g>
+ </g>
+</svg>

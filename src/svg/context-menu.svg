@@ -1,0 +1,28 @@
+<svg width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" x="-.12" y="-.12" width="1.24" height="1.24" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.64999976"/>
+  </filter>
+  <filter id="b" x="-.16181" y="-.095361" width="1.3236" height="1.1907" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.62797713"/>
+  </filter>
+ </defs>
+ <g transform="translate(0 -1020.4)">
+  <g transform="translate(0 -.0378)">
+   <circle cx="21.94" cy="1044.3" r="6.5" filter="url(#a)" opacity=".25"/>
+   <circle cx="21.5" cy="1043.9" r="6.5" fill="#fff"/>
+   <g transform="translate(-.93555 1021.4)">
+    <path d="m7.9844 4a1.0001 1.0001 0 0 0-0.98438 1v14a1.0001 1.0001 0 0 0 1.7734 0.63477l2.0742-2.5293 1.4219 3.4297c0.2179 0.54745 0.67032 0.98123 1.1719 1.1582 0.50156 0.17697 1.0137 0.13324 1.4531-0.04883 0.43939-0.18207 0.83312-0.51233 1.0625-0.99219s0.24099-1.1073 0.0078-1.6484l-1.5312-3.6953 2.8789 0.0059a1.0001 1.0001 0 0 0 0.70898-1.707l-9.3144-9.3145a1.0001 1.0001 0 0 0-0.72266-0.29297zm1.0156 3.4141 5.8945 5.8945-1.957-0.0039a1.0001 1.0001 0 0 0-0.92578 1.3828l0.04492 0.10938a1.0001 1.0001 0 0 0-1.6973-0.25195l-1.3594 1.6582z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill-rule="evenodd" filter="url(#b)" image-rendering="auto" opacity=".35" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+    <path d="m7 3.6855v14l3.1328-3.8203 2.0664 4.9863a1.0001 1.0001 0 1 0 1.8477-0.76562l-2.1113-5.0957 4.3789 0.0098z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="m7 3.6855v14l3.1328-3.8203 2.0664 4.9863a1.0001 1.0001 0 1 0 1.8477-0.76562l-2.1113-5.0957 4.3789 0.0098z" fill="#151515" fill-rule="evenodd"/>
+    <rect width="24" height="24" fill="none" opacity=".2"/>
+   </g>
+   <path d="m20.938 1038.4c-2.7734 0.2815-4.9375 2.6503-4.9375 5.4958 0 3.0353 2.4624 5.4958 5.5 5.4958s5.5-2.4605 5.5-5.4958-2.4624-5.4958-5.5-5.4958c-0.18985 0-0.37761-0.019-0.5625 0z" fill="#3daee9"/>
+  </g>
+  <g fill="#fff">
+   <rect x="18" y="1041.4" width="7" height="1" style="paint-order:stroke fill markers"/>
+   <rect x="18" y="1043.4" width="7" height="1" style="paint-order:stroke fill markers"/>
+   <rect x="18" y="1045.4" width="7" height="1" style="paint-order:stroke fill markers"/>
+  </g>
+ </g>
+</svg>
