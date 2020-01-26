@@ -7,13 +7,13 @@ To install the cursor theme simply copy the compiled theme to your icons
 directory. For local user installation:
 
 ```
-cp -pr dist/ ~/.icons/McMojave-cursors
+./install.sh
 ```
 
 For system-wide installation for all users:
 
 ```
-sudo cp -pr dist/ /usr/share/icons/McMojave-cursors
+sudo ./install.sh
 ```
 
 Then set the theme with your preferred desktop tools.
