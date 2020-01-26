@@ -1,6 +1,6 @@
 # McMojave cursors
-This is an x-cursor theme inspired by macOS and based on KDE Breeze.
-
+This is an x-cursor theme inspired by macOS and based on capitaine-cursors.
+[capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors).
 
 ## Installation
 To install the cursor theme simply copy the compiled theme to your icons
