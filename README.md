@@ -1,6 +1,6 @@
 # McMojave cursors
-This is an x-cursor theme inspired by macOS and based on capitaine-cursors.
-[capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors).
+This is an x-cursor theme inspired by macOS and
+based on [capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors).
 
 ## Installation
 To install the cursor theme simply copy the compiled theme to your icons
@@ -31,4 +31,4 @@ This will generate the pixmaps and appropriate aliases.
 The freshly compiled cursor theme will be located in `dist/`
 
 ## Preview
-![](preview.png)
+![McMojave](preview.png)
