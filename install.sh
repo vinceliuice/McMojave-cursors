@@ -10,7 +10,11 @@ else
   DEST_DIR="$HOME/.local/share/icons"
 fi
 
-cp -pr dist/ $DEST_DIR/McMojave-cursors
+if [ -d "$DEST_DIR/McMojave-cursors" ]; then
+  rm -r "$DEST_DIR/McMojave-cursors"
+fi
+
+cp -pr dist $DEST_DIR/McMojave-cursors
 
 echo "Finished..."
 
