@@ -14,7 +14,7 @@ if [ -d "$DEST_DIR/McMojave-cursors" ]; then
   rm -r "$DEST_DIR/McMojave-cursors"
 fi
 
-cp -pr dist $DEST_DIR/McMojave-cursors
+mkdir -p $DEST_DIR && cp -pr dist $DEST_DIR/McMojave-cursors
 
 echo "Finished..."
 
